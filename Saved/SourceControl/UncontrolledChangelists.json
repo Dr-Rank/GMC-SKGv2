@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/GMCv2_Demo + SKGv2/Content/SKGShooterFramework/Blueprints/Pawn/SKG_Pawn.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/GMCv2_Demo/Blueprints/BP_GameMode.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCBaseCharacters/Content/TPCharacter/BP_TPBaseCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCBaseCharacters/Content/TPCharacter/BP_TPMovement.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCBaseCharacters/Content/TPCharacter/Animations/ABP_TPCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCCrouchProneDemo/Content/TPCharacter/BP_TPCrouchProneMovement.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCCrouchProneDemo/Content/TPCharacter/Animations/ABP_TPCrouchProneCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCHitscanDemo/Content/DummyCharacter/BP_DummyCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCCrouchProneDemo/Content/TPCharacter/BP_TPCrouchProneCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/GMCv2_Demo/Maps/Entry.umap",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Pawn/My_GMC_PlayerController.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Pawn/BP_SKGSFExamplePawn.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Pawn/SKG_Pawn.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Firearm/Projectiles/DA_308.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Firearm/Projectiles/DA_556.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Firearm/M4/BP_SKGSFM4.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Blueprints/Firearm/BP_SKGSFFirearm.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/SKGShooterFramework/Assets/Levels/SKGShootHouse/BP_SKGSFShootHouseGameMode.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCNavMovementDemo/Content/NavCharacter/BP_NavCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCBasedMovementDemo/Content/TPCharacter/BP_TPBasedCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCBaseCharacters/Content/TPCharacter/BP_TPCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Plugins/GMCMassMovementDemo/Content/TPCharacter/BP_TPMassCharacter.uasset",
+				"E:/Unreal Projects/GMCv2_Demo/Content/GMCv2_Demo/Blueprints/My_GMC_PlayerController.uasset"
+			]
+		}
+	]
+}
